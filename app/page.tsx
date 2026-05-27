@@ -59,7 +59,6 @@ export default function HomePage() {
             />
             <div className="hero-overlay-vip"></div>
           </div>
-
           <div className="hero-content-vip">
             <div className="hero-main-row">
               <div className="hero-title-area">

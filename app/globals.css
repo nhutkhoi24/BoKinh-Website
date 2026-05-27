@@ -358,18 +358,17 @@ h4,
 }
 
 .display-title-vip {
-    font-family: "Cormorant Garamond", serif;
+    font-family: "1FTV HF Gesco", sans-serif;
     font-weight: 400;
     font-size: clamp(4rem, 9vw, 8.5rem);
     line-height: 0.95;
-    letter-spacing: 0;
     margin: 0;
     color: #ffffff;
-}
+} 
 
 .hero-desc-area {
     max-width: 320px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 0.95rem;
     line-height: 1.6;
     color: #ffffff;
