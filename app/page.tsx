@@ -349,8 +349,9 @@ export default function HomePage() {
 
               <div className="social-links mt-40">
                 <a
-                  href="mailto:bokinhforwork@gmail.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=bokinhforwork@gmail.com"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className="social-btn"
                 >
                   <span className="icon">
