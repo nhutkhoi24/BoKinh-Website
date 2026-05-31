@@ -65,8 +65,7 @@ export default function HomePage() {
                 <span className="eyebrow-vip">Local Culture Branding</span>
                 <h1 className="display-title-vip">BỜ KINH</h1>
                 <h2
-                  style={{ color: "aliceblue", fontSize: "1.5rem" }}
-                >
+                  style={{ color: "aliceblue", fontSize: "1.5rem" }}>
                   Gìn giữ bản sắc, nâng tầm thương hiệu
                 </h2>
               </div>
