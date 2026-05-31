@@ -88,14 +88,14 @@ export async function POST(req: NextRequest) {
       html: `
   <div style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 600px; margin: 0 auto; background: #F7F2E8; color: #173326; border-radius: 18px; overflow: hidden; border: 1px solid #E6D8BF;">
     
-    <div style="background: linear-gradient(135deg, #0F3D2E, #1F6B45); padding: 34px 28px; text-align: center;">
-      <h1 style="margin: 0; font-size: 30px; letter-spacing: 1px; color: #F4C45F;">
-        BỜ KINH
-      </h1>
-      <p style="margin: 10px 0 0; color: #FFF3D6; font-size: 14px;">
-        Gìn giữ bản sắc, nâng tầm thương hiệu
-      </p>
-    </div>
+   <div style="background: linear-gradient(135deg, #0F3D2E, #1F6B45); padding: 34px 28px; text-align: center;">
+  <h1 style="margin: 0; font-size: 30px; letter-spacing: 1px; color: #F4C45F;">
+    BỜ KINH
+  </h1>
+  <p style="margin: 10px 0 0; color: #FFF3D6; font-size: 14px;">
+    Gìn giữ bản sắc, nâng tầm thương hiệu
+  </p>
+</div>
 
     <div style="padding: 34px 30px; background: #FFFDF7;">
       <p style="font-size: 18px; color: #0F3D2E; margin: 0 0 16px; font-weight: 700;">
